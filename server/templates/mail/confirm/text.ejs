@@ -1,0 +1,11 @@
+<%- include('../common/header.ejs') %>
+Hello,
+
+Thank you for signing up on <%- config.siteName %>! Before you can start DOING BLAH, please confirm your email address by copying and pasting the link below into your browser:
+
+<%- config.host + '/confirm/' + user.activationKey %>
+
+If you did not request this email, please just ignore and delete it. Otherwise, thanks again for signing up and giving us a try!
+
+Cheers,
+The <%- config.siteName %> team

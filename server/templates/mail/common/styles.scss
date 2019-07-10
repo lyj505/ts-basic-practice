@@ -1,0 +1,16 @@
+$font-family-sans-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+// Use regular fonts because webfonts don't work for emails
+$footer-height: 0;
+
+@import '../../../../client/assets/Styles.scss';
+
+// Override
+html {
+  position: static;
+  min-height: 0;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 0;
+}
