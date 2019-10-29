@@ -134,7 +134,7 @@
     "react-router-scroll-4": "^1.0.0-beta.2",
     "react-updaters": "^2.0.6",
     "reactstrap": "^6.5.0",
-    "sequelize": "^4.39.1",
+    "sequelize": "^5.15.1",
     "winston": "2.4.4",
     "winston-logstash": "^0.4.0"
   },
