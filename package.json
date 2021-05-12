@@ -122,7 +122,7 @@
     "moment": "^2.22.2",
     "morgan": "^1.9.1",
     "mysql2": "^1.6.1",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "qs": "^6.5.2",
