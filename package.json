@@ -79,7 +79,7 @@
     "gulp-sequence": "^1.0.0",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-typescript": "^5.0.0-alpha.3",
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "less": "^3.8.1",
     "less-loader": "^4.1.0",
     "mini-css-extract-plugin": "^0.4.4",
